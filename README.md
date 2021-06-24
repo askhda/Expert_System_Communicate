@@ -1,1 +1,1 @@
-# Expert_System_Communicate
+I plan to make expert system and use website as user interface called communicate. Communicate can help people to know what is their social communication style in order to developed theirselves.To build communicate, i plan to use Bootstrap framework and mybe javascript.
