@@ -4,8 +4,10 @@ This program can give you the result of your communication style and give you ad
 <br>
 <br>
 Buils using:
-- Bootstrap framework
-- picture from Unsplash
+<ul>
+  <li>Bootstrap framework</li>
+  <li>Picture from Unsplash</li>
+</ul>
 <br>
 <br>
 <strong>Status: Under development</strong>
