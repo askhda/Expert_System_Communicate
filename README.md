@@ -1,1 +1,11 @@
-I plan to make expert system and use website as user interface called communicate. Communicate can help people to know what is their social communication style in order to developed theirselves. To build communicate, I plan to use Bootstrap framework and mybe javascript.
+<h3>Expert system to find your communication style.</h3>
+<br>
+This program can give you the result of your communication style and give you advice to improve your communication style.
+<br>
+<br>
+Buils using:
+- Bootstrap framework
+- picture from Unsplash
+<br>
+<br>
+<strong>Status: Under development</strong>
